@@ -20,3 +20,13 @@ e: 2
 f: 1
 
 (continued for all character in the string)
+
+
+# python
+Enter number 5
+
+5 4 3 2 1
+4 3 2 1
+3 2 1
+2 1
+1
